@@ -1,0 +1,7 @@
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\bin\Debug\matrixKSZ.exe.config
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\bin\Debug\matrixKSZ.exe
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\bin\Debug\matrixKSZ.pdb
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\obj\Debug\matrixKSZ.csproj.AssemblyReference.cache
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\obj\Debug\matrixKSZ.csproj.CoreCompileInputs.cache
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\obj\Debug\matrixKSZ.exe
+C:\Users\szabi\source\repos\matrixKSZ\matrixKSZ\obj\Debug\matrixKSZ.pdb
